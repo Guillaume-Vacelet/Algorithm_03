@@ -2,7 +2,7 @@
 
 ## Model 1
 #### Accurary
-![1-failure](https://user-images.githubusercontent.com/62621394/173563654-d305d79d-3f6c-4f82-96f6-8b8a4c2b2654.png)
+![1 - accuracy](https://user-images.githubusercontent.com/62621394/173564332-8766d7ae-2d82-4c57-94aa-a62a42648ed4.png)
 
 #### Success
 ![1-success](https://user-images.githubusercontent.com/62621394/173560132-c4c19b1d-fea6-4553-b1d8-aebadfd11b13.png)
